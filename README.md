@@ -1,6 +1,6 @@
 Chrome Extension to auto craft a cover letter for job applications on wellfound.com, right in your browser.
 
-# chrome-extension
+# Wellfound auto-crafter extension
 // ==================== SETUP INSTRUCTIONS ====================
 /*
 SETUP INSTRUCTIONS:
